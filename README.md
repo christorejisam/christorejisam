@@ -21,9 +21,6 @@
 </p>
 
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=ChristoRejiSam&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristoRejiSam&theme=algolia&layout=compact" />
-</p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
