@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Christo Reji Sam !! 👋 </h1>
+<h1 align="center">Hi, I'm Christo Reji Sam !! 👋 </h1>
 
 - 🔭 I’m currently working on Front-End Developer
 - 🌱 I’m currently learning PHP ,  Javascript
