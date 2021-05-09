@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com//?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
   <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+  
+  <p> <img align="center" src="https://metrics.lecoq.io/christorejisam" alt="christorejisam" /> </p>
 </p>
 
 
