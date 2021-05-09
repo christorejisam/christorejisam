@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Christo Reji Sam !! 👋 </h1>
+<h1 align="center">Hello!!👋 I'm Christo Reji Sam !! </h1>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&label=Profile%20views&color=0e75b6&style=flat" alt="christorejisam" /> </p>
 
 
@@ -28,5 +29,4 @@
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
-
 
