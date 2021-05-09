@@ -1,4 +1,4 @@
-<h1 align="center">Hello!!👋 I'm Christo Reji Sam !! </h1>
+<h1 align="center"> Hello!! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christo Reji Sam !! </h1>
 
 <img align="right" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="250" />
 
