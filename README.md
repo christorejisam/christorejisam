@@ -5,10 +5,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&label=Profile%20views&color=0e75b6&style=flat" alt="christorejisam" /> </p>
 
 
-- 🔭 I’m currently working as Front-End Developer
-- 🌱 I’m currently learning PHP ,  Javascript
-- 💬 Ask me about Web Development and Tech Related Stuff.
-- 📫 How to reach me: christorejisam27@gmail.com
+<h4> 🔭 I’m currently working as Front-End Developer </h4>
+<h4> 🌱 I’m currently learning PHP ,  Javascript </h4>
+<h4> 💬 Ask me about Web Development and Tech Related Stuff. </h4>
+<h4> 📫 How to reach me: christorejisam27@gmail.com </h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christorejisam" alt="christorejisam" /></a> </p>
 
