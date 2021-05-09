@@ -7,6 +7,10 @@
 - 💬 Ask me about Web Development and Tech Related Stuff.
 - 📫 How to reach me: christorejisam27@gmail.com
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-christorejisam.vercel.app/api/spotify-playing" alt="Christo Spotify Playing" width="350" />](https://open.spotify.com/user/v5kpdwy6iu4y3tgglizbbw7l5)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christorejisam" alt="christorejisam" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,4 +30,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristoRejiSam&theme=algolia&layout=compact" />
 </p>
 
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
+
+
