@@ -25,7 +25,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=christorejisam&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christorejisam&theme=algolia&layout=compact" />
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
+  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christorejisam&theme=algolia" alt="christorejisam" />
   <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
 </p>
 
