@@ -1,6 +1,6 @@
 <h1 align="center">Hello!!👋 I'm Christo Reji Sam !! </h1>
 
-<img align="right" alt="GIF" src="https://github.com/christorejisam/christorejisam/blob/main/Tijiko%203D.gif" width="400" height="300" />
+<img align="right" alt="svg" src="" width="400" height="300" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&label=Profile%20views&color=0e75b6&style=flat" alt="christorejisam" /> </p>
 
