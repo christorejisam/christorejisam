@@ -1,8 +1,8 @@
 <h1 align="center"> Hello!! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christo Reji Sam !! </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&label=Profile%20views&color=0e75b6&style=flat" alt="christorejisam" /> </p>
-<img src="https://github.com/christorejisam/christorejisam/blob/main/Christo%20Reji%20Sam.gif">
+<img align="right" alt="GIF" src="https://github.com/christorejisam/christorejisam/blob/main/Christo%20Reji%20Sam.gif" width="1800" height="350 >
 
-<img align="right" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="250" />
+<img align="center" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="250" />
 
 - 🔭 I’m currently working as Front-End Developer </h4>
 - 🌱 I’m currently learning PHP ,  Javascript </h4>
