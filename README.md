@@ -30,6 +30,9 @@
   <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
   
   
+  <img align="center" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="450" />
+  
+  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
   
 </p>
