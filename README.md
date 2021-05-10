@@ -3,10 +3,10 @@
 <img align="center" alt="GIF" src="https://github.com/christorejisam/christorejisam/blob/main/login.gif" width="1800" height="350 >
 <img align="right" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="450" />
 
-<h5>- 🔭 I’m currently working as Front-End Developer </h5>
-<h5>- 🌱 I’m currently learning PHP ,  Javascript </h5>
-<h5>- 💬 Ask me about Web Development and Tech Related Stuff. </h5>
- - 📫 How to reach me **christorejisam27@gmail.com** 
+- 🔭 I’m currently working as Front-End Developer 
+- 🌱 I’m currently learning PHP ,  Javascript 
+- 💬 Ask me about Web Development and Tech Related Stuff. 
+- 📫 How to reach me **christorejisam27@gmail.com** 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app//?username=christorejisam" alt="christorejisam" /></a> </p> 
 
@@ -30,7 +30,7 @@
   <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
   
   
-  <img align="center" alt="png" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="350" height="450" />
+ <p> <img align="center" src="https://github.com/christorejisam/christorejisam/blob/main/my-octocat.png" width="450" height="450" /></p>
   
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
