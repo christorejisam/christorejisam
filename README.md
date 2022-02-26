@@ -1,6 +1,11 @@
 <h1 align="center"> Hello!! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christo Reji Sam !! </h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&label=Profile%20views&color=0e75b6&style=flat" alt="christorejisam" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&color=blueviolet&style=flat" alt="christorejisam" /> </p>
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://twitter.com/Christorejisam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Christorejisam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christorejisam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christorejisam" height="30" width="40" /></a>
+<a href="https://instagram.com/christo_reji_sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christo_reji_sam" height="30" width="40" /></a>
+</p>
                                                                             
 
 - 🔭 I’m currently working as Front-End Developer 
@@ -11,54 +16,18 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app//?username=christorejisam" alt="christorejisam" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Christorejisam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Christorejisam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/christorejisam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christorejisam" height="30" width="40" /></a>
-<a href="https://instagram.com/christo_reji_sam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christo_reji_sam" height="30" width="40" /></a>
-</p>
-
-<p> <h3 align="left">Languages and Tools:</h3> </p>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="xd" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="ps" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/indesign.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-indesign.png" alt="id" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="androidstudio" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="ae" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="pr" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="ai" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-</p>
-
-## &#x1f4c8; My GitHub Stats
-<p align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=christorejisam&show_icons=true&locale=en&theme=algolia" alt="christorejisam" /></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christorejisam&show_icons=true&locale=en&layout=compact&theme=algolia" alt="christorejisam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com//?user=christorejisam&theme=algolia" alt="christorejisam" /></p>
-  <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
-      
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
   
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christorejisam&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="christorejisam" />
+</p>
 
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=christorejisam&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=christorejisam&theme=prussian&hide_border=true" />
+</p>
+
+  <img src="https://activity-graph.herokuapp.com/graph/?username=christorejisam&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+  
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />  
