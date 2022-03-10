@@ -1,4 +1,4 @@
-<h1 align="center"> Hello!! <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christo Reji Sam !! </h1>
+<h1 align="center"> Hello <img  src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Christo Reji Sam !! </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=christorejisam&color=blueviolet&style=flat" alt="christorejisam" /> </p>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
